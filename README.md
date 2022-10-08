@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @imashishbogati
-- 👀 I’m interested in iOS and it's ecosystem 
+- 👀 I'm an iOS Developer. I'm also very passionated about the Apple ecosystem and the design and feel of apps and technology in general
 
 <h2>Connect with me </h2>
 <p align="left" dir="auto">
